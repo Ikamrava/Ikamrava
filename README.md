@@ -8,19 +8,18 @@
 
 
 [gmail-shield]: https://img.shields.io/badge/-Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:lorencapraru@gmail.com
+[gmail-url]: mailto:iman.kamrava@gmail.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-green.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/lorena-capraru-070723244/
+[linkedin-url]: https://www.linkedin.com/in/iman-kamrava/
 
 [location-shield]: https://img.shields.io/badge/Location-London%20NW9-orange?style=for-the-badge
-[location-url]: https://www.google.com/maps?q=London+NW9
-
+[location-url]: https://goo.gl/maps/51Wh5R2wfnYscs9Y9
 # Hello, I'm Lorena 👋
 
-Passionate computing graduate and full stack developer trainee at CodeYourFuture, seeking an entry-level position to apply my coding and troubleshooting skills.
+Passionate computing graduate and full stack developer volunteer at CodeYourFuture, seeking an entry-level position to apply my coding and troubleshooting skills.
 
-![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenacapraru&show_icons=true&theme=dracula&hide=stars)
+![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenacapraru&show_icons=true&theme=dracula&hide=stars)
 
 ## Languages and Tools
 
@@ -48,14 +47,6 @@ Passionate computing graduate and full stack developer trainee at CodeYourFuture
   <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET" title="ASP.NET" height="40" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacapraru&layout=compact)
-
-## The Biggest Challenge I Faced During my Educational Journey
-
-<p>My dissertation was to design a develop an Intelligent Door Lock System based on Voice Recognition with embeded motion sensor which notifies the owner in the event of a break-in. I created the access for the user to open and close the door only by vocal prints. 
-
-<br><b>Just imagine the potential of my capabilities when someone will open this career door for me?!</b></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikamrava&layout=compact)
 
 
-<br>
-<p><i>"Programming is the closest thing we have to a superpower." - Drew Houston*</i></p>
