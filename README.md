@@ -13,11 +13,11 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-green.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/iman-kamrava/
 
-[location-shield]: https://img.shields.io/badge/Location-London%20NW9-orange?style=for-the-badge
+
 [location-url]: https://goo.gl/maps/51Wh5R2wfnYscs9Y9
 # Hello, I'm Iman 👋
 
-Passionate computing graduate and full stack developer volunteer at CodeYourFuture, seeking an entry-level position to apply my coding and troubleshooting skills.
+I am a passionate computing graduate and full-stack developer volunteer at CodeYourFuture, seeking an entry-level position to apply my coding and troubleshooting skills.
 
 ![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikamrava&show_icons=true&theme=dracula&hide=stars)
 
