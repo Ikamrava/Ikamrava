@@ -15,11 +15,11 @@
 
 [location-shield]: https://img.shields.io/badge/Location-London%20NW9-orange?style=for-the-badge
 [location-url]: https://goo.gl/maps/51Wh5R2wfnYscs9Y9
-# Hello, I'm Lorena 👋
+# Hello, I'm Iman 👋
 
 Passionate computing graduate and full stack developer volunteer at CodeYourFuture, seeking an entry-level position to apply my coding and troubleshooting skills.
 
-![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenacapraru&show_icons=true&theme=dracula&hide=stars)
+![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikamrava&show_icons=true&theme=dracula&hide=stars)
 
 ## Languages and Tools
 
