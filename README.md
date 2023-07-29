@@ -1,5 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <img width="1440" alt="Screenshot 2023-07-19 at 12 28 21" src="https://raw.githubusercontent.com/Ikamrava/Ikamrava/main/profile.jpeg">
