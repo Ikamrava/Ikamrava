@@ -1,5 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Gmail][gmail-shield]][gmail-url]
+[![Email][email-shield]][email-url]
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iman-kamrava/)
 
 
@@ -9,8 +9,8 @@
 
 
 
-[gmail-shield]: https://img.shields.io/badge/-Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:iman.kamrava@gmail.com
+[email-shield]: https://img.shields.io/badge/-Gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white
+[email-url]: mailto:kamrava.iman@outlook.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-green.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/iman-kamrava/
