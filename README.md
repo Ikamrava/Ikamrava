@@ -1,6 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Email][email-shield]][email-url]
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/iman-kamrava/)
+
 
 
 
