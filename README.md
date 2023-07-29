@@ -2,7 +2,7 @@
 [![Gmail][gmail-shield]][gmail-url]
 [![Location][location-shield]][location-url]
 
-<img width="1440" alt="Screenshot 2023-07-19 at 12 28 21" src="https://github.com/LorenaCapraru/LorenaCapraru/assets/108892538/cb3e5c92-cde4-4dcc-af89-e51a9798dc7f">
+<img width="1440" alt="Screenshot 2023-07-19 at 12 28 21" src="">
 
 
 
