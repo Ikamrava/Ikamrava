@@ -17,7 +17,7 @@
 [location-url]: https://goo.gl/maps/51Wh5R2wfnYscs9Y9
 # Hello, I'm Iman 👋
 
-I am a passionate computing graduate and full-stack developer volunteer at CodeYourFuture, seeking an entry-level position to apply my coding and troubleshooting skills.
+My journey began at CodeYourFuture, where I joined as a trainee with a fervent desire to reshape my career path. Leveraging my technical expertise, I took on the role of mentoring over 50 coding bootcamp learners from diverse backgrounds.As a junior developer, I have honed my skills in various technologies including React, Next.js, TypeScript, HTML5, CSS3, and JavaScript. I'm a fast learner, a problem-solving enthusiast, and now fully prepared for an exciting new career direction.
 
 ![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikamrava&show_icons=true&theme=dracula&hide=stars)
 
